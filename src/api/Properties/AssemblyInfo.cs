@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("api")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("NgrokApi")]
+[assembly: AssemblyDescription("A .Net wraper for the ngrok API.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("api")]
+[assembly: AssemblyProduct("NgrokApi for .Net")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
